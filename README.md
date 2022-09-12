@@ -2,7 +2,7 @@
 
 Clean Title is a browser extension that clears the tab title from those annoying notification numbers.
 
-## Sites Currently Supported
+## Currently Supported Sites
 
 - YouTube
 
