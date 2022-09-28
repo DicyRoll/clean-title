@@ -1,7 +1,7 @@
 {
   "name": "Clean Title",
   "description": "Clean Title clears the tab title from those annoying notification numbers.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "manifest_version": 3,
   "content_scripts": [
     {
@@ -9,7 +9,15 @@
         "https://www.youtube.com/*"
       ],
       "js": [
-        "notificationStart.js"
+        "youtube.js"
+      ]
+    },
+    {
+      "matches": [
+        "https://mail.google.com/*"
+      ],
+      "js": [
+        "gmail.js"
       ]
     }
   ],
