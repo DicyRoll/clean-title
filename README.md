@@ -14,6 +14,7 @@ by downloading the zip of the repo, enabling **'Developer mode'** in the top lef
 
 - YouTube
 - Gmail
+- Twitch
 
 ---
 
