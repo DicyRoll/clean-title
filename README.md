@@ -12,9 +12,10 @@ by downloading the zip of the repo, enabling **'Developer mode'** in the top lef
 
 ## Currently Supported Sites
 
-- YouTube
-- Gmail
-- Twitch
+-   YouTube
+-   Gmail
+-   Twitch
+-   Twitter
 
 ---
 
